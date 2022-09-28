@@ -1,0 +1,31 @@
+{
+  "name": "Yeeldx LP Farms",
+  "timestamp": "2022-09-28T05:26:18.876Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 19
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "yeeldxswap",
+    "default"
+  ],
+  "active": [
+    {
+      "tokens": [
+        "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+        "0x18C516E653a55606084c55381C632E007502E91b"
+      ],
+      "stakingRewardAddress": "0x8E9547264AB28C048EAb2070A4e23dADE152115c",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "baseToken": "0x18C516E653a55606084c55381C632E007502E91b",
+      "rate": 15.886,
+      "pair": "0xD5b144dC91A1aFE2C421C33643ACcAFBDE290EB4"
+    }
+  ],
+  "closed": []
+}
