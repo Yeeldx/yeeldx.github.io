@@ -1,0 +1,25 @@
+{
+  "name": "Yeeldx Token List",
+  "timestamp": "2022-09-28T13:46:08.442Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 52
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+  ]
+}
