@@ -1,1 +1,18 @@
 
+{
+"name": "Quickswap Dual Farms",
+"timestamp": "2022-09-28T19:22:00.220Z",
+"version": {
+"major": 1,
+"minor": 0,
+"patch": 21
+},
+"tags": {},
+"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+"keywords": [
+"quickswap",
+"default"
+],
+"active": [],
+"closed":[]
+}
