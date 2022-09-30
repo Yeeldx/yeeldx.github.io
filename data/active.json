@@ -25,6 +25,19 @@
       "baseToken": "0x18C516E653a55606084c55381C632E007502E91b",
       "rate": 15.886,
       "pair": "0xD5b144dC91A1aFE2C421C33643ACcAFBDE290EB4"
+    },
+    {
+      "tokens": [
+        "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+        "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1"
+      ],
+      "stakingRewardAddress": "0x26658c4ce9931B11d10Dd229dB02508aC73cfBA2",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "baseToken": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "rate": 15.886,
+      "pair": "0x59C1F4e0473430A9cd041AA896Be479E5b29ad08"
     }
   ],
   "closed": []
