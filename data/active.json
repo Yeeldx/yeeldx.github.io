@@ -1,6 +1,6 @@
 {
   "name": "Yeeldx LP Farms",
-  "timestamp": "2022-09-28T05:26:18.876Z",
+  "timestamp": "2022-10-01T05:26:18.876Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -18,13 +18,39 @@
         "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
         "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1"
       ],
-      "stakingRewardAddress": "0x26658c4ce9931B11d10Dd229dB02508aC73cfBA2",
+      "stakingRewardAddress": "0x69CBA4Abb84fF7B3E43101ec4376DC71738d3DAB",
       "ended": false,
       "lp": "",
       "name": "",
       "baseToken": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
       "rate": 15.886,
       "pair": "0x59C1F4e0473430A9cd041AA896Be479E5b29ad08"
+    },
+    {
+      "tokens": [
+        "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+        "0x3813e82e6f7098b9583FC0F33a962D02018B6803"
+      ],
+      "stakingRewardAddress": "0x0E15286dE22aA8FF7a1Dbf31D50C89308f771501",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "baseToken": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
+      "rate": 15.886,
+      "pair": "0x994BD6C0456348D4Af87249Ef691845A36926F23"
+    },
+    {
+      "tokens": [
+        "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+        "0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7"
+      ],
+      "stakingRewardAddress": "0x66b93bfC670E9A8016ff1e4F03F8921298b0aa5F",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "baseToken": "0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7",
+      "rate": 15.886,
+      "pair": "0xc46957c080e6B142b17d40F7DE19c29e19EF8216"
     }
   ],
   "closed": []
