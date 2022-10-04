@@ -38,12 +38,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "name": "YeeldxToken",
-      "address": "0xCA854b7D74F018530DA9a45b82C9d624A848d1ab",
-      "symbol": "YEELDX",
+      "name": "Yeeld",
+      "address": "0x6A555cB5Aa145C203875dc9c15fF0e61610DB74F",
+      "symbol": "YEELD",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
+      "logoURI": "https://i.ibb.co/2vPJCcS/logo-circle.png"
     },
     {
       "name": "Wrapped Matic",
