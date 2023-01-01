@@ -16,6 +16,7 @@
     "riskScore": 0,
     "endorsed": true,
     "emergency_shutdown": false,
+    "buyToken" : "https://arbitrum.curve.fi/tricrypto/deposit",
     "token": {
       "address": "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2",
       "name": "Curve.fi USD-BTC-ETH",
