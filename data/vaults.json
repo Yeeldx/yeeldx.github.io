@@ -134,7 +134,7 @@
   "apy": {
     "type": "v2:averaged",
     "gross_apr": 0.0503206648712262,
-    "net_apy": 79.03%,
+    "net_apy": "79.03%",
     "fees": {
       "performance": 0.2,
       "withdrawal": 0,
