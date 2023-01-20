@@ -126,15 +126,15 @@
   "tvl": {
     "total_assets": "205143256269417402188",
     "total_delegated_assets": "0",
-    "tvl_deposited": 171523.60193904402,
+    "tvl_deposited": 0.00,
     "tvl_delegated": 0,
     "tvl": 171523.60193904402,
-    "price": 836.11621
+    "price": 2270000
   },
   "apy": {
     "type": "v2:averaged",
     "gross_apr": 0.0503206648712262,
-    "net_apy": 0.024547320150957397,
+    "net_apy": 79.03%,
     "fees": {
       "performance": 0.2,
       "withdrawal": 0,
@@ -162,7 +162,7 @@
     "guardian": "0x73d82dd7E3053Fd268F4ee3c1d61b0df9F233b12",
     "rewards": "0x56a394cCa23c90EE1Ec39F05Abb1CA18C95bC4D4",
     "depositLimit": "10000000000000000000000",
-    "availableDepositLimit": "9999983100287390734522",
+    "availableDepositLimit": "10000000000000000000000",
     "comment": "Sushiswap MAGIC-ETH LP",
     "apyTypeOverride": "",
     "apyOverride": 0,
