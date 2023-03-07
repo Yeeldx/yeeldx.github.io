@@ -17,6 +17,7 @@
     "endorsed": true,
     "emergency_shutdown": false,
     "buyToken" : "https://arbitrum.curve.fi/tricrypto/deposit",
+    "status" : 1,
     "token": {
       "address": "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2",
       "name": "Curve.fi USD-BTC-ETH",
@@ -112,6 +113,7 @@
   "endorsed": true,
   "emergency_shutdown": true,
   "buyToken": "https://arbitrum.curve.fi/tricrypto/deposit",
+  "status" : 0,
   "token": {
     "address": "0xB7E50106A5bd3Cf21AF210A755F9C8740890A8c9",
     "name": "SushiSwap LP Token",
